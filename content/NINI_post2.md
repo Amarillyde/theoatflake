@@ -1,15 +1,14 @@
 ---
-title: First Ever Blog Post
+title: Non-vegan recipe
 date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
-type: post
-image: "/images/createherstock-2019-Agency-Neosha-Gardner-10.jpg"
+type: featured
+image: images/recipes/post-2.jpg
 categories:
-- Infrastructure-as-Code
+- Recipes
 tags:
-- Terraform
-- IaC
-- Infrastructure-as-Code
+- Food
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
