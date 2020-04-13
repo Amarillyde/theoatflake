@@ -24,6 +24,12 @@ ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eiu
 labore et dolore magnam aliquam quaerat voluptatem.
 
 
+{{< rawhtml >}}
+  <p class="">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
+
 
 dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
