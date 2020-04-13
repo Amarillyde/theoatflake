@@ -23,9 +23,7 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.
 
-{{< rawhtml >}}
-<font class="ninistyle">Lorem ipsum</font> 
-{{< /rawhtml >}}
+
 
 dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
@@ -39,7 +37,7 @@ ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eiu
 labore et dolore magnam aliquam quaerat voluptatem.
 
 
-> **Fried cheese** 
+> **Fried cheese**
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
