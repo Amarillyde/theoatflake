@@ -2,7 +2,7 @@ baseURL = "https://theoatflake.netlify.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
-theme = "parsa-hugo"
+theme = "my-parsa"
 title = "The Oatflake "
 
 [[menu.main]]
