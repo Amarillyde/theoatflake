@@ -4,10 +4,12 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "The Oatflake "
+
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
+
 [[menu.main]]
 URL = "recipes"
 name = "Recipes"
@@ -27,7 +29,7 @@ author = "Themefisher"
 author_image = ""
 bio = ""
 contact_form_action = ""
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com), and additions & modifications by &copy; The Oatflake"
 description = "This is meta description"
 email = ""
 google_analitycs_id = "Your ID"
@@ -37,10 +39,12 @@ logo = "images/oatflake_mini.jpg"
 mobile = ""
 preloader = true
 search = true
+
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = false
 user_id = "4044026246"
+
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -70,11 +74,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "https://twitter.com/cloudonfleek"
+URL = "https://twitter.com/theoatflake"
 icon = "ti-twitter-alt"
 [[params.social]]
-URL = "https://www.linkedin.com/company/cloudonfleek/"
-icon = "ti-linkedin"
-[[params.social]]
-URL = "https://github.com/CloudOnFleek"
+URL = "https://github.com/Amarillyde"
 icon = "ti-github"
