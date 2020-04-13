@@ -3,21 +3,28 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Cloud on Fleek | Cloud Security Blog "
+title = "The Oatflake "
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
+URL = "recipes"
+name = "Recipes"
+weight=1
+
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 3
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
 [params]
 address = ""
 author = "Themefisher"
-author_image = "images/banner-img.png"
+author_image = ""
 bio = ""
 contact_form_action = ""
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
@@ -26,7 +33,7 @@ email = ""
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "content/images/recipes/post-1.png"
+logo = "images/oatflake_mini.jpg"
 mobile = ""
 preloader = true
 search = true
