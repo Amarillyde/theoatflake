@@ -3,7 +3,7 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "my-parsa"
-title = "The Oatflake "
+title = "The Oat Flake"
 
 [[menu.main]]
 URL = "recipes"
@@ -30,12 +30,12 @@ author_image = "images/oatflake.jpg"
 bio = ""
 contact_form_action = ""
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com), and additions & modifications by &copy; The Oatflake"
-description = "This is meta description"
+description = "A plant-based blog, with healthy recipes to optimize nutrition."
 email = ""
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/oatflake_mini.jpg"
+logo = "images/logo_100x83_size.jpg"
 mobile = ""
 preloader = true
 search = true
