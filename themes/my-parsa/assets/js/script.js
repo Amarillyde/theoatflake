@@ -1,7 +1,7 @@
 (function ($) {
   'use strict';
 
-  // Preloader js    
+  // Preloader js
   $(window).on('load', function () {
     $('.preloader').fadeOut(300);
   });
@@ -20,7 +20,7 @@
     dots: false,
     speed: 300,
     autoplay: true,
-    arrows: false,
+    arrows: true,
     slidesToShow: 4,
     slidesToScroll: 1,
     responsive: [{

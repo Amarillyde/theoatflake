@@ -1,9 +1,9 @@
 ---
-title: Non-vegan recipe
+title: NINI post 2
 date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
 type: featured
-image: images/recipes/post-2.jpg
+image: images/masonary-post/post-1.jpg
 categories:
 - Recipes
 tags:

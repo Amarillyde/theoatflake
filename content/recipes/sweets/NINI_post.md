@@ -1,9 +1,9 @@
 ---
-title: Vegan recipe 1
+title: NINI post
 date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
-type: post
-image: images/recipes/post-1.jpg
+type: featured
+image: images/masonary-post/post-1.jpg
 categories:
 - Recipes
 tags:
