@@ -133,6 +133,247 @@ h6, .h6 {
   border: 0;
 }
 
+/*jump to recipe button styling*/
+.recipe_card {
+  border: none;
+  background-color: transparent;
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+a:active {
+  text-decoration: none;
+  color: black;
+}
+
+#jump {
+height: 100%;
+  width: 90%;
+  background-color: #FDEFE6;
+  border: thin solid;
+  border-color: pink;
+  position: relative;
+
+}
+
+#pic_and_title {
+  text-align: center;
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.recipe_cover {
+height: 50px;
+width: 100%;
+}
+
+.hr-style-one {
+  border: 1px solid black;
+  width: 95%;
+}
+
+.hr-style-two {
+  border: 1px solid black;
+  width: 95%;
+}
+
+.prep_container {
+  display: block;
+  widht: 100%;
+  heigh: auto;
+}
+
+.prep1 {
+  width: 50%;
+  height: 100px;
+  float: left;
+  background-color: transparent;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+}
+
+.prep2 {
+  width: 50%;
+  height: 100px;
+  float: right;
+  background-color: transparent;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  padding-right: 10%;
+}
+
+.icon_preptext1 {
+  height: 50%;
+  width: 100%;
+  position: relative;
+  display: block;
+  background-color: transparent;
+
+}
+
+.icon_preptext2 {
+  height: 50%;
+  width: 100%;
+  position: relative;
+  display: block;
+  background-color: transparent;
+
+}
+
+.icon_preptext3 {
+  height: 50%;
+  position: relative;
+  display: block;
+  background-color: transparent;
+
+}
+
+.icon_preptext4 {
+  height: 50%;
+  position: relative;
+  display: block;
+  background-color: transparent;
+
+}
+
+.icon1 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  top: 10%;
+  float: left;
+  margin-right: 5px;
+  margin-left: 25%;
+
+}
+
+.preptext1 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  float: left;
+}
+
+.icon2 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  top: 10%;
+  float: left;
+  margin-right: 5px;
+  margin-left: 25%;
+}
+
+.preptext2 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  float: left;
+}
+
+.icon3 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  top: 10%;
+  float: left;
+  margin-right: 5px;
+  margin-left: 25%;
+}
+
+.preptext3 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  float: left;
+}
+
+.icon4 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  top: 10%;
+  float: left;
+  margin-right: 5px;
+  margin-left: 25%;
+}
+
+.preptext4 {
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+  float: left;
+}
+
+
+
+.ingredients {
+  text-align: left;
+  padding-left: 10%;
+  font-weight:
+  display: block;
+}
+
+.ingredients_list {
+  list-style-type: disc;
+  list-style-position: inside;
+  line-height: 60%;
+}
+
+.methods {
+  text-align: left;
+  padding-left: 10%;
+  font-weight:
+  display: block;
+
+}
+
+.methods_list {
+  list-style: decimal;
+  line-height: 60%;
+  padding-left: 10%;
+
+}
+
+.fa-clock {
+  padding-right: 2%;
+  margin-left: 10%;
+}
+
+.fa-cookie-bite {
+  padding-right: 2%;
+  margin-left: 10%;
+}
+
+.fa-temperature-high {
+  padding-right: 2%;
+  margin-left: 10%;
+}
+
+.fa-pencil-alt {
+  padding-right: 2%;
+  margin-left: 10%;
+}
+
+.icon_text {
+  font-size: small;
+}
+
+/**/
+
 body {
   background-color: #fff;
   overflow-x: hidden;

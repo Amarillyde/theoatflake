@@ -8,7 +8,15 @@ title = "The Oat Flake"
 [[menu.main]]
 URL = "recipes"
 name = "Recipes"
+identifier = "Recipes"
 weight=1
+
+[[menu.main]]
+URL= "/recipes/sweets"
+name= "Sweets"
+parent= "Recipes"
+identifier= "Sweets"
+weight= 1
 
 [[menu.main]]
 URL = "about"
@@ -25,7 +33,7 @@ home = ["HTML", "RSS", "JSON"]
 
 [params]
 address = ""
-author = "theoatflake"
+author = "the oat flake"
 author_image = "images/oatflake.jpg"
 bio = ""
 contact_form_action = ""
@@ -39,6 +47,8 @@ logo = "images/logo_transparent_background-main.png"
 mobile = ""
 preloader = true
 search = true
+jump_to_recipe = "content/images/jump-to-recipe_icon.png"
+
 
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
