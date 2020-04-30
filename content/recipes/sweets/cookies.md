@@ -46,31 +46,58 @@ blablabla
 <div id= "jump">
         <div>
           <img class="recipe_cover" src="/images/cookies_picture.jpg" alt="cookies" >
-          <p id= "pic_and_title">Vegan Chocolate Chips Cookies</p>
+          <p id= "recipe_card_title">Vegan Chocolate Chips Cookies</p>
         </div>
-
-        <hr class="hr-style-one">
-
-    <div class="prep_container">
-
-    <div class= prep1>
-        <p class="icon_text"><i class="far fa-clock"></i>Prep time: 10 min</p>
-        <p class="icon_text"><i class="far fa-clock"></i>Cooking time: 10 min</p>
-        <p class="icon_text"><i class="fa fa-clock"></i>Total time: 20 min</p>
-    </div>
-    <div class="prep2"
-        <p class="icon_text"><i class="fas fa-cookie-bite"></i>Yield: 12 cookies</p>
-        <p class="icon_text"><i class="fas fa-temperature-high"></i>Temperature: 170°C ≃ 350°F</p>
-        <p class="icon_text"><i class="fas fa-pencil-alt"></i>Author: theoatflake</p>
-    </div>  
-
-      </div>
 
 <hr class="hr-style-two">
 
-        <div class="ingredients">
-          <p style="font-size: 110%">Ingredients</p>
-          <ul>
+<!-- table width: more than 600px -->
+
+<div class="prep_container_big" media="(max-width: 600px)">
+    <table class="prep_table_big">
+      <tr>
+        <th class="table_text"><i class="far fa-clock"></i>prep: 10 min</th>
+        <th class="table_text"><i class="far fa-clock"></i>cooking: 10 min</th>
+        <th class="table_text"><i class="fas fa-clock"></i>total time: 20 min</th>
+      </tr>
+      <tr>
+        <td class="table_text2"><i class="fas fa-temperature-high"></i>170°C ～ 350°F</td>
+        <td class="table_text2"><i class="fas fa-cookie-bite"></i>yield: 12 cookies</td>
+        <td class="table_text2"><i class="fas fa-pencil-alt"></i>author: theoatflake</td>
+      </tr>
+    </table>
+</div>
+
+<!-- table width: less than 600px -->
+
+<div class="prep_container_small" media="(min-width: 600px)">
+    <table class="prep_table_small">
+      <tr>
+        <th class="table_text_small"><i class="far fa-clock"></i>prep: 10 min</th>
+      </tr>
+      <tr>
+        <th class="table_text_small"><i class="far fa-clock"></i>cooking: 10 min</th>
+      </tr>
+      <tr>
+        <th class="table_text_small"><i class="fas fa-clock"></i>total time: 20 min</th>
+      </tr>
+      <tr>
+        <th class="table_text_small"><i class="fas fa-temperature-high"></i>170°C ～ 350°F</th>
+      </tr>
+      <tr>
+        <th class="table_text_small"><i class="fas fa-cookie-bite"></i>yield: 12 cookies</th>
+      <tr>
+        <td class="table_text_small"><i class="fas fa-pencil-alt"></i>author: theoatflake</td>
+      </tr>
+    </table>
+</div>
+
+<hr class="hr-style-two">
+
+
+        <div id="ingredients">
+          <p class= "ingredients_title">Ingredients</p>
+          <ul class="ingredients">
             <li class="ingredients_list">10 spoons sugar</li>
             <li class="ingredients_list">cinnamon</li>
             <li class="ingredients_list">10 spoons sugar</li>
@@ -82,11 +109,11 @@ blablabla
 
 <hr class="hr-style-two">
 
-        <div class="methods">
-          <p style="font-size: 110%">Method</p>
-            <ol class="methods_list">
-              <li>Cut carrots.</li>
-              <li>Cut cucs.</li>
+        <div id="methods">
+          <p class="methods_title">Method</p>
+            <ol class="methods">
+              <li class="methods_list">Paintbrush is a simple paint program for OS X, reminiscent of Microsoft Paint and Apple's own now-defunct MacPaint. It provides users with a means to make simple images quickly, something which has been </li>
+              <li class="methods_list">Cut cucs.</li>
             </ol>
         </div>
 
